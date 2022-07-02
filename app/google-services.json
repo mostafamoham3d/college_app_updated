@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876477093567",
+    "project_id": "college-app-a9432",
+    "storage_bucket": "college-app-a9432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876477093567:android:8838d86a0fa52979f9580a",
+        "android_client_info": {
+          "package_name": "com.example.collage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876477093567-b5o7r4t174nnh86fihave66rr6ovt4ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collage_app",
+            "certificate_hash": "44573a44470d95013ba7516a3919b2267f24b2fd"
+          }
+        },
+        {
+          "client_id": "876477093567-f5bvdi0inojba4fmok2hi2lpn0vcbdh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-eWjuuQQNOKafSFkw2oSib0Qj_ZdH1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876477093567-f5bvdi0inojba4fmok2hi2lpn0vcbdh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
